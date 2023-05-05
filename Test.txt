@@ -1,0 +1,19 @@
+You entered Amphitheater.
+You entered Core.
+You have added Key to your inventory from Core.
+You entered Stadium.
+You entered Core.
+You entered Student Union.
+You entered Core.
+You entered Amphitheater.
+You entered Library.
+You have added Note to your inventory from Library.
+You entered McAdams Hall.
+You entered Hendrix.
+You have added Ice Cream to your inventory from Hendrix.
+You entered Schilletter.
+You entered Amphitheater.
+You entered Core.
+You entered Student Union.
+You have added Bowling Pin to your inventory from Student Union.
+You succesfully escaped!
